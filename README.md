@@ -1,30 +1,34 @@
+---
+<p align="center">
+<img src="https://i.imgur.com/lojS7Yw.png" alt="HCI-Project" height="1024px" width="1024" />
+</p>
+---
+
 # HCI-Project
-Proyecto diseñado para la asignatura de Interacción Humana Computadora
+Project designed for the Human-Computer Interaction subject.
 
-## Equipo
+## Team
 
-- Rodrigo Maliachi Flota [@RodrigoMaliachi](https://github.com/RodrigoMaliachi "Click Aquí")
-- Daniel García Cetina [@Daniel-Garcia-C](https://github.com/Daniel-Garcia-C "Click Aquí")
-- Ruth Betzabe Castro Acosta [@Ruthbcastro](https://github.com/Ruthbcastro "Click Aquí")
-- Benito Hernandez Caballero [@BenitoHdZ](https://github.com/BenitoHdZ "Click Aquí")
+- Rodrigo Maliachi Flota [@RodrigoMaliachi](https://github.com/RodrigoMaliachi "Click Here")
+- Daniel García Cetina [@Daniel-Garcia-C](https://github.com/Daniel-Garcia-C "Click Here")
+- Ruth Betzabe Castro Acosta [@Ruthbcastro](https://github.com/Ruthbcastro "Click Here")
+- Benito Hernandez Caballero [@BenitoHdZ](https://github.com/BenitoHdZ "Click Here")
 
-# Objetivo
-Ofrecer un servicio alternativo para solicitar y agendar citas psicológicas para disminuir la sobrecarga de los servicios de atención psicológica de la UADY y que permita a los alumnos acceder a un psicólogo a demanda y a precios preferenciales.
+# Objective
+To provide an alternative service for requesting and scheduling psychological appointments to reduce the overload on the psychological care services of UADY and to allow students to access a psychologist on demand and at preferential prices.
 
-# Usuarios
+# Users
+Students from the Faculty of Mathematics at UADY, aged 18-26 years.
 
+# Development Process
+The DCU (Design Centered User) methodology focuses on the user and their needs throughout the design process. This means that the user's experience is taken into account at every step of the design, from conceptualization to implementation.
 
+# Deliverables
+- [Personas](/PrimeraEntrega/Artefactos/Personas/ "Click Here")
+- [Scenarios](/PrimeraEntrega/Artefactos/Escenarios/ "Click Here")
+- [Requirements](/PrimeraEntrega/Artefactos/Requisitos/ "Click Here")
 
-# Proceso de desarrollo
-La metodología DCU (Design Centered User) se enfoca en el usuario y sus necesidades durante todo el proceso de diseño. Esto significa que se tiene en cuenta la experiencia del usuario en cada paso del diseño, desde la conceptualización hasta la implementación.
+# Documents 
+- [Presentation](/PrimeraEntrega/Documentación/Presentación/ "Click Here")
 
-
-# Entregas
-- [Personas](/PrimeraEntrega/Artefactos/Personas/ "Click Aquí")
-- [Escenarios](/PrimeraEntrega/Artefactos/Escenarios/ "Click Aquí")
-- [Requisitos](/PrimeraEntrega/Artefactos/Requisitos/ "Click Aquí")
-
-# Documentos 
-- [Presentación](/PrimeraEntrega/Documentación/Presentación/ "Click Aquí")
-
-- [TrackerContribución](/PrimeraEntrega/Artefactos/Tracker%20Contribución/ "Click Aquí")
+- [Contribution Tracker](/PrimeraEntrega/Artefactos/Tracker%20Contribución/ "Click Here")

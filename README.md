@@ -1,8 +1,6 @@
----
 <p align="center">
-<img src="https://i.imgur.com/lojS7Yw.png" alt="HCI-Project" height="1024px" width="1024" />
+<img src="https://i.imgur.com/lojS7Yw.png" alt="HCI-Project" height="260px" width="260px" />
 </p>
----
 
 # HCI-Project
 Project designed for the Human-Computer Interaction subject.

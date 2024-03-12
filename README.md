@@ -26,6 +26,6 @@ The DCU (Design Centered User) methodology focuses on the user and their needs t
 - [Requirements](/Artefactos/Requisitos/requirements.md "Click Here")
 
 # Documents 
-- [Presentation](/Documentación/Presentación/ "Click Here")
+- [Presentation](https://youtu.be/zKvRnGvW3SE "Click Here")
 
 - [Contribution Tracker](/Artefactos/Tracker%20Contribución/ "Click Here")

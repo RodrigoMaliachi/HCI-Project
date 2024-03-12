@@ -22,7 +22,7 @@ Students from the Faculty of Mathematics at UADY, aged 18-26 years.
 The DCU (Design Centered User) methodology focuses on the user and their needs throughout the design process. This means that the user's experience is taken into account at every step of the design, from conceptualization to implementation.
 
 # Deliverables
-- [Personas](/Artefactos/Personas.png "Click Here")
+- [Personas](/Artefactos/Persona.png "Click Here")
 - [Requirements](/Artefactos/Requisitos/requirements.md "Click Here")
 
 # Documents 

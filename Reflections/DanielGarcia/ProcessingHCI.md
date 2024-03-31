@@ -18,5 +18,7 @@ Given that the interviews took about four days to complete with an objective sam
 ## References
 
 [1] Interaction Design Foundation - IxDF. 2021. A Simple Introduction to Lean UX Retrieved from https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux
+
 [2] Interaction Design Foundation - IxDF. “What is User Research?” Interaction Design Foundation - IxDF. https://www.interaction-design.org/literature/topics/user-research
+
 [3] Fard, A. 2022. The Ultimate Guide to Lean UX Design. Retrieved from https://medium.com/@adam.fard/the-ultimate-guide-to-lean-ux-design-dd09d925ecb0

@@ -14,4 +14,5 @@ The constructed "persona" in the product can be used in usability with the scena
 
 ## References
 [1] Olsen, G. 2004. Persona Creation and Usage Toolkit. Retrieved from http://www.interactionbydesign.com/presentations/olsen_persona_toolkit.pdf&
+
 [2] Interaction Design Foundation - IxDF. 2021. Engaging Personas. Retrieved from Personas | The Encyclopedia of Human-Computer Interaction, 2nd Ed. (interaction-design.org)

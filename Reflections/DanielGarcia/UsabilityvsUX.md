@@ -14,6 +14,9 @@ In the project, artifacts are helpful in the user experience expectations. **In 
   
 ## References
 [1] Carroll. J. M. 2009. Human Computer Interaction (HCI). Interaction Design Encyclopedia. Vol. 6. p. 2010. Retrieved Google Académico from https://snoopedu.com/app/uploads/2022/03/Reading1_HCI.pdf
+
 [2] Virtual SYS Technologies. s.f. Human-Computer Interaction (HCI) and User Experience (UX) Design: Creating Effective Digital Interactions. Retrieved from https://virtualsystechnologies.com/human-computer-interaction-hci-and-user-experience-ux-design-creating-effective-digital-interactions/
+
 [3] Interaction Design Foundation - IxDF. “What is Usability?” Interaction Design Foundation - IxDF. Retrieved from https://www.interaction-design.org/literature/topics/usability
+
 [4] Interaction Design Foundation - IxDF. "What is user experience (UX) design?" Interaction Design Foundation - IxDF. Retrieved from https://www.interaction-design.org/literature/topics/ux-design

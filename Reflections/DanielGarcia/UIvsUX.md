@@ -13,4 +13,4 @@ Achieving UX can be complicated due to the lack of information about the interfa
 References
 
 
-[1] Aileen, J. 2022. UX vs UI: What’s the difference (And How They Apply to WordPress)
+[1] Aileen, J. 2022. UX vs UI: What’s the difference. https://wpmudev.com/blog/ux-ui-wordpress/

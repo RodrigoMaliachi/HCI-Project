@@ -1,0 +1,11 @@
+There are several things that can be mentioned. Two aspects that can be improved in the initial prototype are the form that is **first filled out by the student, aimed at filtering or collecting information to help their experience in finding psychologists according to their situation.** The student has a clean interface where they can select 4 to 6 options in each question, and they can skip this form with a button to bypass it. **According to aspects of the Interaction Design Foundation [1], there is lazy registration, which implies that the student sees the app directly to interact without registering. This can be directly useful regarding the time the student has and becoming familiar with the application and its options to observe available psychologists.**
+
+Another aspect currently considered for improvement in the prototyping is the listing of information about the approaches that psychologists handle. This is simple and direct information about the meaning and situations one might encounter.. It includes several approaches. To reduce the stress load, tapping on the element reveals information progressively, but the same can be applied to the entire list of approaches with a "Show more" button to reduce the user's cognitive load of viewing them all.
+
+**A progress tracker is something that can currently be implemented in the form. This would indicate to the user the number of questions they need to answer to get the filtering of psychologists who have the desired approach. Not having this could lead to the perception that they are being subjected to a questionnaire of 20 or more questions to use the application when, in reality, there are only 5 questions.**
+
+**Throughout, basic or reusable components were used such as location interface, profiles, buttons, warning messages, typography, so that we want the handling of the application to be intuitive to the user in a way that is familiar with trusted applications. However, they always present traits for improvement that may or may not affect the achievement of usability requirements.**
+
+Reference
+
+[1] Interaction Design Foundation - IxDF. “What are User Interface (UI) Design Patterns?” Interaction Design Foundation - IxDF. https://www.interaction-design.org/literature/topics/ui-design-patterns 

@@ -1,0 +1,8 @@
+# UsingPersonas
+
+The use of personas is a fictitious construction of a client based on assumptions and stereotypes of what the user is like, based on the intuition and experience of the designers. It is used as a starting point to begin evaluating your products and developing early design hypotheses Nielsen (2014).
+**From this in our dating application project for reservations with psychologists for students of the Faculty of Mathematics, we have developed the person design based on the assumptions and stereotypes of people who study careers in the field of exact, in summary: Introverted men with mastery of mathematics and programming, methodical, perfectionists, anxious, with low social skills, with a taste for video games.**
+**From this assumption we have developed the design of the application thinking about the main psychological problems or issues to be treated that our people tend to have: anxiety, depression, mental problems, communication problems. The ease of choosing the modality (virtual or in-person) was also implemented, thinking that it could be the first date for many users and they would prefer the virtual modality due to their low social skills. The option to receive therapy as soon as possible was also implemented in case a user is experiencing an anxiety crisis or urgent situation.**
+
+
+Nielsen, L. (2014, January 1). People. Interaction Design Foundation - IxDF. https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/personas

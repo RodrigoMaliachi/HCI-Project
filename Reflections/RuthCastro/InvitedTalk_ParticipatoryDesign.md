@@ -1,0 +1,7 @@
+# Participatory design - Invited Talk
+
+**In the talk on participatory design, different aspects are discussed that the main tool to design a city or more specifically a park, is a multidisciplinary team, thinking about all the areas to be considered.**
+**It was also commented that when designing a city, a legacy is left for the cities.**
+**The steps are: site analysis (what population there is), participatory design: Invite population and understand their needs, sustainability plan, executive project and monitoring.**
+**It was mentioned that "the park is a laboratory where cognitive development occurs." A process is carried out where the population that would inhabit the park, children, adults and older adults, is invited to find out their needs (the same information is extracted in different ways depending on age).**
+**In this t<!--  -->alk, the most important thing I can bring to my project of psychological appointments for UADY students is to have a multidisciplinary team when developing my application, so that psychologists can evaluate the application or suggest changes. A section with resources can be included. self-help assisted by psychologists where there may be options for anxiety management techniques, what to do in case of suicidal thoughts, and other topics that may be common to our model of person, the stereotype of FMAT students, where psychologists design the topics and answers to address.**

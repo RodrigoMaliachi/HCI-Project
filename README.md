@@ -24,6 +24,10 @@ The DCU (Design Centered User) methodology focuses on the user and their needs t
 # Deliverables
 - [Personas](/Artefactos/Persona.png "Click Here")
 - [Requirements](/Artefactos/Requisitos/requirements.md "Click Here")
+- [Usability Test](/Artefactos/Docs/Prueba%20de%20Usabilidad.md "Click Here")
+
+# Prototype with Figma
+- [Prototype](https://www.figma.com/design/mq8J1BKZHTmLDctN3HZ55w/Prototipo-(Low-fidelity)?node-id=8%3A7587&t=mzu1bJTgtbMTfpYl-1 "Click Here")
 
 # Documents 
 - [Presentation](https://youtu.be/zKvRnGvW3SE "Click Here")
